@@ -18,12 +18,12 @@ MonoBehaviour:
   - 
   - Teleport
   - Grab Interactable
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - FrameLeft
+  - FrameMiddle
+  - FrameRight
+  - GazeInteractable
+  - RayInteractor
+  - TopLock
   - 
   - 
   - 
