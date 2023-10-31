@@ -24,10 +24,10 @@ MonoBehaviour:
   - GazeInteractable
   - RayInteractor
   - TopLock
-  - 
-  - 
-  - 
-  - 
+  - Clothes
+  - ClothesTop
+  - ClothesMiddle
+  - ClothesBottom
   - 
   - 
   - 
