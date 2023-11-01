@@ -28,12 +28,12 @@ MonoBehaviour:
   - ClothesTop
   - ClothesMiddle
   - ClothesBottom
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - LeverKey
+  - BottomLock
+  - Wrench
+  - ToolboxKey
+  - ItemBoxKey01
+  - ItemBoxKey02
   - 
   - 
   - 
