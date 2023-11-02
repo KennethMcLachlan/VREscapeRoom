@@ -11,6 +11,9 @@ public class LeversTrigger : MonoBehaviour
     [SerializeField]
     private bool _leverTwoActive;
 
+    [SerializeField]
+    private AudioSource _keySpawnAudio;
+
     //[SerializeField]
     //int[] _lockCode = new int[2] { 1, 2 };
     //int[] _enteredCode = { 0, 0 };
@@ -31,6 +34,7 @@ public class LeversTrigger : MonoBehaviour
         if (_leverOneActive == true && _leverTwoActive == true)
         {
             //_onCheck.Invoke();
+            //_keySpawnAudio.Play();
             _key.SetActive(true);
         }
     }
